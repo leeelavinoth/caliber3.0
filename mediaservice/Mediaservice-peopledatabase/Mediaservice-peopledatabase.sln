@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediaservice-peopledatabase", "Mediaservice-peopledatabase\Mediaservice-peopledatabase.csproj", "{58AB8CA7-0DBB-423B-B21B-FC0D9FCDD6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AB8CA7-0DBB-423B-B21B-FC0D9FCDD6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AB8CA7-0DBB-423B-B21B-FC0D9FCDD6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AB8CA7-0DBB-423B-B21B-FC0D9FCDD6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AB8CA7-0DBB-423B-B21B-FC0D9FCDD6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD4E041-410E-4F4A-81F1-D6A1112BE27C}
+	EndGlobalSection
+EndGlobal

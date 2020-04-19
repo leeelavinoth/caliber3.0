@@ -1,0 +1,10 @@
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\obj\Debug\Mediaservice-peopledatabase.csprojAssemblyReference.cache
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\obj\Debug\Mediaservice-peopledatabase.csproj.CoreCompileInputs.cache
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\bin\Debug\Mediaservice-peopledatabase.exe.config
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\bin\Debug\Mediaservice-peopledatabase.exe
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\bin\Debug\Mediaservice-peopledatabase.pdb
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\obj\Debug\Mediaservice-peopledatabase.csproj.CopyComplete
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\obj\Debug\Mediaservice-peopledatabase.exe
+C:\Working\poc\mediaservice\Mediaservice-peopledatabase\Mediaservice-peopledatabase\obj\Debug\Mediaservice-peopledatabase.pdb
